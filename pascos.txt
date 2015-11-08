@@ -1,0 +1,32 @@
+
+
+     EXPERIMENTAL LIMITS ON KAPPA-MINKOWSKI FIELD THEORIES
+
+
+                       ABSTRACT
+
+    In the last decade the interest to Non-commutative field theories 
+has significantly increased. In part the motivation is caused by the
+conjectures that the low-energy limit of Quantum Gravity can 
+be viewed as the so-called kappa-Minkowski spacetime. The non-commutative 
+kappa-Minkowski field theory operates on a spacetime which possesses 
+a modified Lorentz invariance. 
+
+(1) [While in a free field theory, such a modified symmetry
+might not lead to observable effects, in an interacting theory
+it undoubtfully leads to deflections from customary Lorentz invariance.
+Based on the fact that our world clearly exhibits interactions,]
+
+(2) [Despite naive thinking, low energy experiment is highly sensitive to
+such modifications, and thus to the scale of Non-commutativity.]
+
+we study the kappa-corrections to interacting Quantum Electrodynamics, and
+show that higher-dimensional operators induce a coupling of 
+nuclear spin to an external background at low energies. Strong limits on this type of 
+interactions push the scale of non-commutativity to more than 
+10^7 Planck masses, thus exhibiting a severe naturalness problem 
+for phenomenology of kappa-Minkowski Field Theory and its progenitors.
+
+
+
+
